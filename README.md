@@ -1,4 +1,4 @@
-# Fintech Student Performance Analysis
+# Student Performance Analysis
 
 **Project Type:** Data Cleaning, Exploration, Aggregation & Visualization  
 **Tools Used:** Python (Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook)
@@ -6,13 +6,13 @@
 ---
 
 ## 📖 Project Overview
-This project analyzes a fintech student performance dataset to uncover insights, evaluate trends, and visualize results. The notebook demonstrates a complete workflow of **data cleaning, exploratory data analysis (EDA), aggregation, and visualization**.  
+This project analyzes a student performance dataset to uncover insights, evaluate trends, and visualize results. The notebook demonstrates a complete workflow of **data cleaning, exploratory data analysis (EDA), aggregation, and visualization**.  
 
 Main objectives:  
 - Clean and preprocess the dataset  
 - Perform aggregation to compute total and average scores  
 - Categorize performance levels (Excellent, Average, Poor)  
-- Visualize performance by course, attendance, and gender  etc
+- Visualize performance by course, attendance, and gender 
 
 ---
 
@@ -46,9 +46,9 @@ Main objectives:
 ---
 
 ## 💡 Key Insights
-1. [Insight 1: e.g., “Course X has the highest average score”]  
-2. [Insight 2: e.g., “Attendance correlates positively with total score”]  
-3. [Insight 3: e.g., “Male and female performance is comparable in most courses”]  
+1.  “Course X has the highest average score”]  
+2. “Attendance correlates positively with total score”]  
+3. “Male and female performance is comparable in most courses”]  
 
 
 ---
